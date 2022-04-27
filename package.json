@@ -1,0 +1,9 @@
+{
+  "name": "magic-cube-spider",
+  "version": "1.0.0",
+  "description": "A combined web crawler tool.",
+  "main": "main.js",
+  "repository": "https://github.com/AuroraHuiyan/magic-cube-spider",
+  "author": "AuroraHuiyan",
+  "license": "Apache LICENSE 2.0"
+}
